@@ -1,0 +1,15 @@
+{
+  "name": "hex-to-64int",
+  "version": "1.0.0",
+  "description": "Convert 8-byte hexadecimal string to 64-bit integer string",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test.js"
+  },
+  "author": "Zubair Ahmed",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.0.0"
+  }
+}
