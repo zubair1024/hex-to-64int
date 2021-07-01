@@ -25,6 +25,6 @@ $ npm i -d && npm test
 
 **Zubair Ahmed**
 
-- [grizzlybit.info](https://grizzlybit.info)
+- [grizzlybit.dev](https://grizzlybit.dev)
 - [About](https://grizzlybit.info/about/)
 - [github/zubair1024](https://github.com/zubair1024)
